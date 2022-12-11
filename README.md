@@ -4,7 +4,7 @@
 
 > [Thanks for non-commercial open source development authorization by JetBrains](https://www.jetbrains.com/?from=v2ray-agent)
 
-> [English Version](https://github.com/mack-a/v2ray-agent/blob/master/documents/en/README_EN.md)
+> [English Version](https://github.com/buildiffuse/v2ray-agent/blob/master/documents/en/README_EN.md)
 
 - [Cloudflare 优化方案](https://github.com/mack-a/v2ray-agent/blob/master/documents/optimize_V2Ray.md)
 - [流量中转](https://github.com/mack-a/v2ray-agent/blob/master/documents/traffic_relay.md)
@@ -112,18 +112,18 @@
 - Latest Version【推荐】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/buildiffuse/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 - shadowsocks 动态IP白名单模式【Beta】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/dev_ss/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/buildiffuse/v2ray-agent/dev_ss/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 # 示例图
 
-<img src="https://raw.githubusercontent.com/mack-a/v2ray-agent/master/fodder/install/install.jpg" width=700>
+<img src="https://raw.githubusercontent.com/buildiffuse/v2ray-agent/master/fodder/install/install.jpg" width=700>
 
 # 许可证
 
